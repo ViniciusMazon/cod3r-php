@@ -28,6 +28,19 @@
             <li><a href="activities.php?dir=basic&file=challenge">Desafio</a></li>
           </ul>
         </div>
+        <div class="module red">
+          <h3>Tipos</h3>
+          <ul>
+            <li><a href="activities.php?dir=types&file=integer">Inteiro</a></li>
+            <li><a href="activities.php?dir=types&file=float">Ponto flutuante</a></li>
+            <li><a href="activities.php?dir=types&file=arithmetic">Operações Aritméticas</a></li>
+            <li><a href="activities.php?dir=types&file=challenge_precedence">Desafio Precedência</a></li>
+            <li><a href="activities.php?dir=types&file=string">String</a></li>
+            <li><a href="activities.php?dir=types&file=challenge_string">Desafio String</a></li>
+            <li><a href="activities.php?dir=types&file=boolean">Boolean</a></li>
+            <li><a href="activities.php?dir=types&file=convertions">Conversões</a></li>
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
