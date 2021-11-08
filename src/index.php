@@ -41,6 +41,19 @@
             <li><a href="activities.php?dir=types&file=convertions">Conversões</a></li>
           </ul>
         </div>
+        <div class="module blue">
+          <h3>Variáveis</h3>
+          <ul>
+            <li><a href="activities.php?dir=variables&file=basic">Básico</a></li>
+            <li><a href="activities.php?dir=variables&file=challenge_equation">Desafio Equação</a></li>
+            <li><a href="activities.php?dir=variables&file=attributions">Atribuições</a></li>
+            <li><a href="activities.php?dir=variables&file=interpolation">Interpolação</a></li>
+            <li><a href="activities.php?dir=variables&file=variables_variables">Variáveis Variáveis</a></li>
+            <li><a href="activities.php?dir=variables&file=challenge_variables">Desafio Variáveis</a></li>
+            <li><a href="activities.php?dir=variables&file=value_references">Valor vs Referência</a></li>
+            <li><a href="activities.php?dir=variables&file=constants">Constantes</a></li>
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
